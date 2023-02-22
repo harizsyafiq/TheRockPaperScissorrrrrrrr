@@ -1,7 +1,6 @@
 # TheRockPaperScissorrrrrrrr
 I build the rockpaperscissors game using vanilla js :)))))
 
-/*
   Rock Paper Scissors 🚀🔥
   Concepts covered in this project
     👉 For loops
@@ -11,4 +10,3 @@ I build the rockpaperscissors game using vanilla js :)))))
     👉 Template Literals
     👉 Event Listeners
     👉 Higher order Function (Math.random())
-*/
