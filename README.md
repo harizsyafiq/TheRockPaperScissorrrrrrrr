@@ -2,7 +2,7 @@
 I build the rockpaperscissors game using vanilla js :)))))
 
   Rock Paper Scissors 🚀🔥
-  Concepts covered in this project
+  Concepts covered in this project /br
     👉 For loops
     👉 Dom Manipulation
     👉 Variables
