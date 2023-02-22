@@ -1,15 +1,3 @@
-/*
-  Rock Paper Scissors 🚀🔥
-  Concepts covered in this project
-    👉 For loops
-    👉 Dom Manipulation
-    👉 Variables
-    👉 Conditionals (if else if)
-    👉 Template Literals
-    👉 Event Listeners
-    👉 Higher order Function (Math.random())
-*/
-
 const totalScores = { computerScore: 0, playerScore: 0 }
 
 
